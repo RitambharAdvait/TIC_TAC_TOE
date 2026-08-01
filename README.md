@@ -1,44 +1,33 @@
-# TIC_TAC_TOE 
-🕹️ Tic-Tac-Toe Game
+# 🪨📄✂️ Stone Paper Scissor Game (Python)
 
-This project is a basic implementation of the classic Tic-Tac-Toe game. It is designed for beginners who want to learn how to build simple games using programming logic, condition checks, and basic user interaction. The game allows two players to play against each other on the same system. The goal is to create a smooth and easy interactive gameplay experience.
+Welcome to the **Stone Paper Scissor** mini-project! 🎮 This is a classic, fun terminal-based Python game where you can test your luck and strategy against the computer. 🤖🐍
 
-✔️ Features
+## 🌟 Features
 
-Two-player mode
+*   **Interactive CLI Gameplay:** Play against a randomized computer opponent right in your terminal. 💻
+*   **Score Tracking:** Keeps track of your wins, losses, and ties throughout the session. 📊
+*   **Instant Feedback:** Displays the winner immediately after every round. ⚡
+*   **Input Validation:** Handles invalid user inputs gracefully so the game doesn't crash. 🛡️
 
-Simple and clear game interface
+## 📜 How to Play
 
-Automatic winner detection
+The rules remain the classic ones:
+1.  **🪨 Stone (Rock)** crushes **✂️ Scissor**.
+2.  **✂️ Scissor** cuts **📄 Paper**.
+3.  **📄 Paper** wraps **🪨 Stone**.
 
-Game restart options
+*If both you and the computer choose the same item, it's a Tie! 🤝*
 
-Beginner-friendly code structure
+## 💻 Technologies Used
 
-📌 What you will learn
+*   **Python 3.x** 🐍 - The core programming language used for the game logic.
+*   **Random Module** 🎲 - Built-in Python library used to generate the computer's moves.
 
-Working with loops and conditions
+## 🚀 How to Run the Game Locally
 
-Handling input and game flow
+### Prerequisites
+Make sure you have [Python](https://www.python.org/downloads/) installed on your system. You can check by running `python --version` in your terminal.
 
-Implementing board logic
-
-Basic problem-solving concept
-
-🧩 Technologies Used
-
-Python (or JavaScript / C++ depending on your version)
-
-Simple terminal or console-based interface
-
-🎯 Objective
-
-The main objective of this project is to help beginners understand how to build a complete working game using programming logic. The code is kept straightforward and readable so that new learners can follow it easily.
-
-🚀 How to Run
-
-Download or clone the repository
-
-Run the program file in your editor or terminal
-
-Follow the instructions to start playing
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/your-username/stone-paper-scissor.git](https://github.com/your-username/stone-paper-scissor.git)
